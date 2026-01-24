@@ -1,7 +1,6 @@
 # 💫 About Me:
 Tanvi Joshi | Tech Explorer <br>Yohoo! I'm Tanvi, a B.Tech AI & ML student with an adventurous soul, a knack for coding and a Japan enthusiast. <br><br>🔹 Explorer at heart – Whether it’s tackling an algorithm, hiking a mountain, or diving into a new programming language, I love challenges!<br>🔹 Tech & Creativity – I enjoy building cool projects, sketching ideas into reality and constantly learning.<br>🔹 Languages & Learning – Currently sharpening my data science and machine learning skills, while improving my public speaking and picking up Japanese & more!<br>🔹 Digital Warrior – Striving for consistency, discipline and growth, both in coding and life.<br><br> What I’m working on: Enhancing my problem-solving skills, contributing to open-source, and becoming a better person every day!<br><br> Fun Fact: When I’m not coding, you’ll probably find me sketching, playing music, dancing or having fun Japanese conversations with myself! <br><br>Let’s build something awesome together — one line of code and one mission at a time!! 
 
-Mind sharp. Code cleaner. Preparing for bigger missions.
 Jai hind!
 
 
