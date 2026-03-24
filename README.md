@@ -24,7 +24,7 @@ Jai hind!
 [![](https://visitcount.itsvg.in/api?id=Tanvi5134&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2g0eDZnOHhoaDNoam0yM2g3azl1bm52MDhkcHp4ZXoyM2NyenJyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UDORIcubjYvIBAYTe1/giphy.gif)
+![.](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2g0eDZnOHhoaDNoam0yM2g3azl1bm52MDhkcHp4ZXoyM2NyenJyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UDORIcubjYvIBAYTe1/giphy.gif)
 <!--
 **Tanvi5134/Tanvi5134** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
